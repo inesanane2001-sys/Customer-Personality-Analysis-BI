@@ -1,4 +1,4 @@
-<img width="768" height="312" alt="image" src="https://github.com/user-attachments/assets/19bb3362-5409-4011-80bc-a506df168636" /># Customer-Personality-Analysis-BI
+# Customer-Personality-Analysis-BI
 Projet BI end-to-end : SSIS + SQL Server + Power BI | Customer Personality Analysis
 
 🚀 Customer Personality Analysis — Projet BI End-to-End
