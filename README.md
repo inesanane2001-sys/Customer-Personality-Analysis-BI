@@ -13,26 +13,40 @@ CSV Kaggle → SSIS (ETL) → SQL Server → Power BI (DAX + Dashboards)
 2 240 clients · 29 attributs · 4 dashboards interactifs
 
 🗂️ Structure du projet
+
 📁 Customer-Personality-Analysis-BI/
 
 │
+
 ├── 📁 SSIS/
+
 │   └── Package.dtsx                  # Package SSIS (ETL complet)
+
 │
 
 
 ├── 📁 SQL/
+
 │   ├── create_table.sql              # Création de la table customer_data
+
 │   ├── update_total_achat.sql        # Calcul Total_achat
+
 │   ├── update_score_fidelite.sql     # Calcul Score_Fidélité
+
 │   └── update_type_client.sql        # Segmentation Type_Client
+
 │
 
 ├── 📁 PowerBI/
+
 │   └── powerquery_complet.pbix       # Fichier Power BI complet
+
 │
+
 ├── 📁 Screenshots/                   # Captures d'écran du projet
+
 │
+
 └── README.md
 
  Étape 1 — ETL avec SSIS
